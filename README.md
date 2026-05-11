@@ -72,17 +72,15 @@ Automation-focused AI assistant capable of intelligent workflow interactions.
 AI-powered fitness and analytics platform featuring smart tracking, automation systems, reporting dashboards, and modern SaaS architecture.
 
 ---
-
 # 📊 GitHub Stats
 
 <div align="center">
 
-![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=PremOp009&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PremOp009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PremOp009&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremOp009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
-
 ---
 
 # 🌐 Connect With Me
